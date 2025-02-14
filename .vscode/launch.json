@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug SDL2",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/output.exe",
+            "preLaunchTask": "Build SDL2", 
+            "cwd": "${workspaceFolder}",
+            "externalConsole": true,
+            "MIMode": "gdb"
+        }
+    ]
+}
