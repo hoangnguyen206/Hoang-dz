@@ -2,6 +2,6 @@
 using namespace std;
 using ll = long long;
 int main(){
-   cout << "Hoang sai dep trieu";
+   cout << "Hoang van dep trai";
          
 }
